@@ -28,7 +28,7 @@ h3 {
   margin: 0 15px;
 }
 .image1 {
-  background-image: url(../img/flow01.png);
+  background-image: url(flow01.png);
   height: 150px;
   width: auto;
   background-position: center;
@@ -49,7 +49,7 @@ h3 {
   padding: 10px;
 }
 .image2 {
-  background-image: url(../img/flow02.png);
+  background-image: url(flow02.png);
   height: 150px;
   width: auto;
   background-position: center;
@@ -63,7 +63,7 @@ h3 {
   padding: 10px;
 }
 .image3 {
-  background-image: url(../img/flow03.png);
+  background-image: url(flow03.png);
   height: 150px;
   width: auto;
   background-position: center;
